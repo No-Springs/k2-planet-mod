@@ -1,0 +1,17 @@
+{
+  "name": "k2-planet-mod",
+  "version": "0.5.3",
+  "title": "Krastorio 2 Planet",
+  "author": "SargaPulcsis",
+  "description": "Relocates Krastorio 2 resources to a new custom planet.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "space-age >= 2.1.0",
+    "PlanetsLib",
+    "Krastorio2-spaced-out >= 2.0.0",
+    "? alien-biomes-graphics",
+    "? Imersite-Asteroids",
+    "! aop-k2so-compat"
+  ],
+  "space_travel_required": true
+}
